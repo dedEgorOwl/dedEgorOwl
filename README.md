@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @dedEgorOwl
-- 👀 I’m interested in html, css, js, php, MySQL
-- 🌱 I’m currently learning REACT, nodeJS, MySQL
+- 👀 I’m interested in html, css, js, php, SQL, React
+- 🌱 I’m currently learning REACT, nodeJS, SQL
 - Discord: hcjpmr#6417
