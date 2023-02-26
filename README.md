@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @dedEgorOwl
 - 👀 I’m interested in WEB development
-- 🌱 I’m currently learning REACTjs, NODEjs, SQL, TS
-- Discord: дед Егор#6417
+- 🌱 I’m currently learning REACTjs, TS, GOlang, SQL
+- Discord: dedgoga#6417
